@@ -92,12 +92,40 @@ li {
     padding-right: 0px;
     padding-bottom: 16px;
     padding-left: 0px;
-  font: 16px Arial: sans-serif;
-  font-size: 16px;
+  font: 18px Arial: sans-serif;
+  font-size: 18px;
   font-weight: normal;
 }
 .date {
   font-style: italic;
-  font-size: 16px; 
+  font-size: 16px;
 }
-
+#content-educationheader {
+  margin: 12px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 12px;
+    margin-left: 0px;
+  padding: 10px;
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+  font-style: normal;
+  font-size: 18px;
+  border-top: 1px solid #FF6699;
+  text-align: center;
+}
+#content-education {
+  margin: 12px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 12px;
+    margin-left: 0px;
+  padding: 10px;
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    border-bottom: 1px solid #FF6699;
+}
