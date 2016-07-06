@@ -94,7 +94,7 @@ li {
     padding-left: 0px;
   font: 18px Arial: sans-serif;
   font-size: 18px;
-  font-weight: normal;
+  font-style: normal;
 }
 .date {
   font-style: italic;
@@ -112,7 +112,7 @@ li {
     padding-bottom: 0px;
     padding-left: 0px;
   font-style: normal;
-  font-size: 18px;
+  font-size: 14px;
   border-top: 1px solid #FF6699;
   text-align: center;
 }
@@ -128,4 +128,5 @@ li {
     padding-bottom: 0px;
     padding-left: 0px;
     border-bottom: 1px solid #FF6699;
+  font-size: 11px;
 }
